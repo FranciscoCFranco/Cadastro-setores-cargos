@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Vendas",
+      "email": "Vendedor",
+      "id": 7
+    },
+    {
+      "name": "Recursos Humanos",
+      "email": "Assistente pessoal",
+      "id": 8
+    }
+  ]
+}
